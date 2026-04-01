@@ -1,0 +1,5 @@
+go to test runner folder
+
+type the coomand in terminal
+
+pytest -v -m regression -s
