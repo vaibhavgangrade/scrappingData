@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 go to test runner folder
 
 type the coomand in terminal
 
 pytest -v -m regression -s
+=======
+go to test runner folder
+
+type the coomand in terminal
+
+pytest -v -m regression -s
+>>>>>>> 26b63a91f53118b1ae0f1d3022b2293584d1fa6d

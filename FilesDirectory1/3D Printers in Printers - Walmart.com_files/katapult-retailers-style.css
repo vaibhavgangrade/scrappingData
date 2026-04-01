@@ -1,0 +1,13 @@
+.katapult-welcome-screen .additional-wc>.additionalBody-wc>.textTop-wc>h3,
+.katapult-welcome-screen .additional-wc>.additionalBody-wc>.textTop-wc>h3>Strong,
+.katapult-welcome-screen .additional-wc>.additionalBody-wc>.textTop-wc>p,
+.katapult-welcome-screen .additional-wc>.additionalBody-wc>.textTop-wc>p>strong,
+.katapult-welcome-screen .additional-wc>.additionalBody-wc>.textTop-wc>.heading-wc,
+.katapult-welcome-screen .main-wc>.mainBody-wc>.body-wc>h1 {
+    letter-spacing: 0px !important
+}
+
+#drawer-content .ChromeWraperBlock,
+#drawer-content .ChromeWraperBlock.supported-block {
+    max-height: 600px;
+}
